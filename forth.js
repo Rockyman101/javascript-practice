@@ -1,4 +1,4 @@
-/*//bitwise operator
+//bitwise operator
 //1=00000001
 //2=00000010
 console.log(1|2);//bitwise or
@@ -17,7 +17,7 @@ console.log(myperm);
 let mesg=myperm&executeperm?'yes':'no'
 console.log(mesg)*/
 //if-else
-/*
+
 let hour=10;
 if(hour>=6&& hour<12){
     console.log('Good morning🌻')
@@ -31,9 +31,9 @@ else if(hour>13&&hour<15){
 }
 else
     console.log("good night💤💤")
-*/
+
 //switch-case
-/*
+
 let role='guest'
 switch (role){
     case 'admin':
@@ -45,7 +45,7 @@ switch (role){
     default:
         console.log("unkown user")
 }
-*/
+
 //for loooop 
 
 for(let i=0;i<10;i++){
