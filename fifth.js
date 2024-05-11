@@ -1,5 +1,5 @@
 
-/*
+
 function isLasndscape(width,height){
     return (width>height);
 }
@@ -50,7 +50,7 @@ console.log(count)
 */
 //objects
 
-/*
+
 const movie={title:'paramathma'
 ,releaseYear:2012
 ,rating:9.9
@@ -60,7 +60,7 @@ for(let key in movie){
     if(typeof movie[key]=='number')
     console.log(key,movie[key])
 }
-*/
+
 
 marks=[40,30,49]
 function calculategrd(marks){
